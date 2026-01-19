@@ -1,3 +1,5 @@
+# Verilog Memory Design Projects – RAM & ROM Implementations
+
 This repository contains three core memory design projects implemented in Verilog HDL. The goal of these projects is to understand how different memory architectures work at the RTL level and how they are modeled using synthesizable Verilog code.
 
 The designs focus on:
